@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vijayesh&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20Robotics%20%26%20Artificial%20Intelligence&descAlignY=58&descSize=18" width="100%" />
+<br/>
+
+<h1>✦ &nbsp; Vijayesh &nbsp; ✦</h1>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&height=55&lines=AI+%26+ML+Engineer+%7C+Deep+Learning+Specialist;Multi-Agent+Systems+%7C+LLM+Applications;Medical+Imaging+%7C+Computer+Vision;Full-Stack+AI+Developer+%7C+Open+Source+Builder" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/AI_%26_ML_Engineer-6D28D9?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Deep_Learning_Specialist-7C3AED?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-4C1D95?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Full--Stack_AI_Developer-5B21B6?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
 
@@ -353,6 +361,10 @@ current_state:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0D1117?style=for-the-badge&labelColor=0D1117&color=6D28D9" width="100%" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Built_with_passion_·_Powered_by_curiosity-1E1B4B?style=for-the-badge&color=1E1B4B&logoColor=8B5CF6" />
 
 </div>
