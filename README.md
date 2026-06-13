@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vijayesh%20Thiyagarajan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Robotics%20%26%20Artificial%20Intelligence%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vijayesh&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20Robotics%20%26%20Artificial%20Intelligence&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
@@ -8,12 +8,7 @@
 
 <br/><br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Robotics_%26_AI-6D28D9?style=flat-square&logo=academia&logoColor=white)
-![SASTRA](https://img.shields.io/badge/SASTRA_Deemed_University-2024--2028-7C3AED?style=flat-square&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.5%2F10-4C1D95?style=flat-square&logoColor=white)
-![Location](https://img.shields.io/badge/📍_Thanjavur,_Tamil_Nadu,_India-1E1B4B?style=flat-square)
 
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://chest-xray-pneumonia-detection-bice.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayesh-thiyagarajan-8bb758356)
@@ -259,18 +254,6 @@ Selected for the AICTE & IBM SkillsBuild AI/ML Virtual Internship program, where
 [![IBM Internship](https://img.shields.io/badge/AI_%26_Machine_Learning_Virtual_Internship-1E1B4B?style=for-the-badge&logo=ibm&logoColor=8B5CF6)](https://github.com/AlsoBaker)
 
 `AI & Machine Learning Virtual Internship · AICTE & IBM SkillsBuild, Edunet Foundation · December 2025 – January 2026`
-
----
-
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AlsoBaker)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/AlsoBaker)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/AlsoBaker)
-
-</div>
 
 ---
 
