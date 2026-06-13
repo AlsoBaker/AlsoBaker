@@ -6,13 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI_%26_ML_Engineer-6D28D9?style=for-the-badge&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Deep_Learning_Specialist-7C3AED?style=for-the-badge&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-4C1D95?style=for-the-badge&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Full--Stack_AI_Developer-5B21B6?style=for-the-badge&logoColor=white" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&height=50&lines=AI+%26+ML+Engineer+%7C+Deep+Learning+Specialist;Multi-Agent+Systems+%7C+LLM+Applications;Medical+Imaging+%7C+Computer+Vision;Full-Stack+AI+Developer+%7C+Open+Source+Builder" alt="Typing SVG" /></a>
 
 <br/><br/>
 
