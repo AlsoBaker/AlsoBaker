@@ -36,9 +36,9 @@ Most of my work sits where a model meets a real interface: a trained classifier 
 <!-- TODO: add start month, e.g. `Mar 2026 – Present` -->
 `Present`
 
-- Deliver paid client projects alongside a full course load, working 2–4 hours a day, five days a week
+- Deliver paid client projects alongside a full course load
 - Developed the company website for a residential construction and apartment development business: server-rendered Laravel with Blade, Alpine.js, Tailwind CSS, Vite and Eloquent
-- Implemented a scroll-driven, image-first hero with pinned parallax that respects reduced-motion preferences, plus a responsive project portfolio
+- Implemented a scroll-driven, image-first hero with pinned parallax that respects reduced-motion preferences
 <!-- TODO: add the live URL once public, and one line per additional project delivered -->
 
 ---
