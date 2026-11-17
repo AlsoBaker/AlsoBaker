@@ -1,364 +1,126 @@
 <div align="center">
 
-<br/>
+# Vijayesh Thiyagarajan
 
-<h1>✦ &nbsp; Vijayesh &nbsp; ✦</h1>
+**Robotics & AI undergrad · Part-time SDE · I build ML and LLM systems and ship them**
 
-<br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&height=50&lines=AI+%26+ML+Engineer+%7C+Deep+Learning+Specialist;Multi-Agent+Systems+%7C+LLM+Applications;Medical+Imaging+%7C+Computer+Vision;Full-Stack+AI+Developer+%7C+Open+Source+Builder" alt="Typing SVG" /></a>
-
-<br/><br/>
-
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://chest-xray-pneumonia-detection-bice.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayesh-thiyagarajan-8bb758356)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayesh684@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlsoBaker)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AlsoBaker&style=flat-square&color=6D28D9&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/AlsoBaker?style=flat-square&color=7C3AED&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/AlsoBaker?style=flat-square&color=4C1D95&label=Stars&logo=github)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alsobaker.github.io-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://alsobaker.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayesh-thiyagarajan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayesh684@gmail.com)
 
 </div>
 
 ---
 
-## ◈ About
+## About
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsoBaker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" />
+Third-year B.Tech student in **Robotics and Artificial Intelligence** at SASTRA Deemed University (graduating May 2028), working part-time as a **Software Development Engineer at JIME Developers**.
 
-**Second-year B.Tech student at SASTRA Deemed University** specializing in Robotics and Artificial Intelligence — building production-grade AI systems that bridge research and deployment. My work spans the full spectrum of modern AI engineering: from training and deploying explainable deep learning models for medical imaging to architecting multi-agent simulations, automated LLM content pipelines, and full-stack AI web applications.
+Most of my work sits where a model meets a real interface: a trained classifier behind a REST API, an LLM inside an automation workflow, a retrieval system behind access control. I care about whether the thing runs end to end, and about being exact on what it can and cannot do.
 
-I approach every project with a product engineering mindset: real-world deployability, interpretability, and measurable performance — not just academic benchmarks.
-
-**Engineering Focus:**
-- 🧠 Deep Learning & Computer Vision — EfficientNet, Grad-CAM, transfer learning, CNN design
-- 🤖 Multi-Agent Systems — autonomous coordination, pathfinding, probabilistic environments
-- ⚡ LLM-Powered Applications — Groq API, prompt engineering, RAG pipelines (in progress)
-- 🌐 Full-Stack AI Deployment — Flask, React, Docker, Hugging Face Spaces, AWS EC2, Vercel
-- 🔄 Intelligent Automation — n8n, Meta Graph API, YouTube Data API, Google Drive API
-
-**Open To:** AI/ML Research Internships · Full-Stack AI Engineering · Open Source Collaboration · Hackathons
-
-<br clear="right"/>
+**Looking for:** Summer 2027 internships in software engineering and AI/ML engineering.
 
 ---
 
-## ◈ Tech Stack
+## Now
 
-**Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css&theme=dark" />
-</p>
-
-**Frontend & Application Layer**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,flask&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="48"/>
-</p>
-
-**ML, AI & Data Science**
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
-</p>
-
-**Cloud, DevOps & Tooling**
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,github,git,mysql,vscode,jupyter&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="48"/>
-</p>
+- 🏗️ **Building** a hybrid due diligence engine on Google Cloud: structured queries (BigQuery) plus vector search over documents, routed by a ReAct agent, served through FastAPI with role-based access
+- 💼 **Shipping** client web projects at JIME Developers on a Laravel stack
+- 📚 **Learning** RAG evaluation, LLM orchestration, and production FastAPI backends
 
 ---
 
-## ◈ AI / ML Expertise
+## Experience
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Computer Vision** | `██████████` Advanced | EfficientNetB4, Grad-CAM, OpenCV, CNN architectures, two-phase transfer learning |
-| **Deep Learning** | `██████████` Advanced | TensorFlow, Keras, ROC-AUC optimization, sensitivity tuning, model fine-tuning |
-| **Multi-Agent Systems** | `████████░░` Proficient | 8-agent simulation, probabilistic environments, autonomous coordination |
-| **Pathfinding Algorithms** | `████████░░` Proficient | A\*, BFS, Dijkstra, D\* Lite — from-scratch implementation & controlled benchmarking |
-| **LLM Applications** | `████████░░` Proficient | Groq API, prompt engineering, personalized plan generation |
-| **MLOps & Deployment** | `███████░░░` Intermediate | Docker, Hugging Face Spaces, REST APIs, lazy model loading, Vercel CI/CD |
-| **Data Engineering** | `███████░░░` Intermediate | NumPy, Pandas, Scikit-Learn, Colab, Jupyter |
-| **Workflow Automation** | `███████░░░` Intermediate | n8n, AWS EC2, Meta Graph API, YouTube Data API, Google Drive API |
-| **RAG Pipelines** | `█████░░░░░` Learning | LangChain, vector databases, retrieval-augmented generation |
+### Software Development Engineer (Part-time) · JIME Developers
+<!-- TODO: add start month, e.g. `Mar 2026 – Present` -->
+`Present`
+
+- Deliver paid client projects alongside a full course load, working 2–4 hours a day, five days a week
+- Developed the company website for a residential construction and apartment development business: server-rendered Laravel with Blade, Alpine.js, Tailwind CSS, Vite and Eloquent
+- Implemented a scroll-driven, image-first hero with pinned parallax that respects reduced-motion preferences, plus a responsive project portfolio
+<!-- TODO: add the live URL once public, and one line per additional project delivered -->
 
 ---
 
-## ◈ Featured Projects
+## Projects
 
-<details>
-<summary><b>🫁 Chest X-Ray Pneumonia Detection</b> — Production Medical AI System</summary>
+### 🫁 Chest X-Ray Pneumonia Detection
+**[Live demo](https://chest-xray-pneumonia-detection-bice.vercel.app/) · [Code](https://github.com/AlsoBaker/chest-xray-pneumonia-detection)**
 
-<br/>
+An EfficientNetB4 classifier with Grad-CAM heatmaps, deployed end to end: upload an X-ray, get a prediction and a visual explanation of the regions behind it.
 
-A full-stack, production-deployed medical imaging application engineered to assist radiologists in detecting pneumonia from chest X-rays. The system integrates a high-accuracy EfficientNetB4 deep learning model with a Grad-CAM visual explanation layer, enabling clinicians to audit every AI prediction through an interpretable heatmap overlay of the lung regions that drove each decision — making this not just a classifier, but a clinician-facing diagnostic tool.
-
-| Attribute | Details |
+| | |
 |---|---|
-| **Stack** | TensorFlow · Keras · EfficientNetB4 · Flask · React · Vite · Docker · Hugging Face Spaces · Vercel |
-| **Scale** | Trained on 5,863 labeled chest X-rays across pneumonia and normal classes |
-| **Performance** | 93.59% accuracy · 0.9834 ROC-AUC · 94.36% sensitivity · 0.9485 F1 Score |
-| **Architecture** | Two-phase transfer learning: frozen base layer extraction → fine-tuned top 100 layers |
-| **Explainability** | Grad-CAM heatmaps surfacing the exact lung regions driving each prediction |
-| **Deployment** | Dockerized Flask REST API on Hugging Face Spaces (16GB RAM) with lazy model loading + Vercel frontend |
-| **Impact** | End-to-end deployment: drag-and-drop upload → real-time inference → explainable visual result |
-| **Repository** | [github.com/AlsoBaker/chest-xray-pneumonia-detection](https://github.com/AlsoBaker/chest-xray-pneumonia-detection) |
+| **Results** | 93.59% accuracy · 0.9834 ROC-AUC · 94.36% sensitivity · 0.9485 F1 |
+| **Training** | 5,863 labeled chest X-rays · two-phase transfer learning (frozen base, then top 100 layers fine-tuned) |
+| **Deployment** | Dockerized Flask API on Hugging Face Spaces with lazy model loading · React + Vite frontend on Vercel |
+| **Stack** | TensorFlow · Keras · Flask · React · Docker |
 
-</details>
+> A learning and research project. It is not a medical device and has not been clinically validated.
 
----
+### 📡 AI Content Publishing Pipeline
+**Private repository**
 
-<details>
-<summary><b>📡 Multi-Platform AI Content Pipeline</b> — Automated Zero-Touch Distribution System</summary>
+An event-driven n8n workflow on AWS EC2. Dropping a video into a Google Drive folder triggers an LLM to write the title and description, publishes the video, and sends a confirmation email.
 
-<br/>
-
-An end-to-end, fully automated content distribution pipeline architected on AWS EC2 using n8n workflow automation. The system monitors a Google Drive folder for new uploads, invokes an LLM to generate platform-optimized titles and descriptions for each piece of content, and autonomously publishes across three major platforms simultaneously — reducing all manual publishing effort to zero from a single upload event.
-
-| Attribute | Details |
+| | |
 |---|---|
-| **Stack** | n8n · AWS EC2 · Google Drive API · YouTube Data API · Instagram Graph API · Facebook Graph API · LLM API |
-| **Scale** | Simultaneous multi-platform distribution triggered by a single Drive upload |
-| **Architecture** | Event-driven: Drive upload detected → LLM content generation → parallel platform publish |
-| **Integrations** | YouTube · Instagram · Facebook — 3 platforms automated from one trigger |
-| **Impact** | Manual publishing effort reduced to zero — fully autonomous from upload to live post |
-| **Repository** | Private |
+| **Status** | YouTube publishing live · Instagram and Facebook integrations built, pending Meta business account approval |
+| **Stack** | n8n · AWS EC2 · Google Drive API · YouTube Data API · Meta Graph API · LLM API |
 
-</details>
+### 🔥 Multi-Agent Firefighter Rescue Simulation
+**[Code](https://github.com/AlsoBaker/AI-Firefighter-Rescue-Simulation)**
 
----
+Up to 8 autonomous agents navigating a 3-floor, 1,200-cell building while fire spreads probabilistically. Four pathfinding algorithms (A\*, BFS, Dijkstra, D\* Lite) implemented from scratch and benchmarked under identical conditions.
 
-<details>
-<summary><b>🔥 AI Firefighter Rescue Simulation</b> — Multi-Agent Pathfinding Research</summary>
-
-<br/>
-
-A comprehensive multi-agent emergency response simulation developed as a graded academic project for the Introduction to Artificial Intelligence course at SASTRA University. The system models probabilistic fire spread across a 3-floor building and benchmarks four classical pathfinding algorithms — all implemented from scratch — under dynamic, real-time fire conditions with up to 8 autonomous agents.
-
-| Attribute | Details |
+| | |
 |---|---|
+| **Result** | D\* Lite scored 1,286 against BFS at 921 (out of 2,000), a 39.6% improvement from incremental replanning |
+| **Context** | Graded project, Introduction to Artificial Intelligence, SASTRA (2025) |
 | **Stack** | Python · Pygame · NumPy |
-| **Scale** | Up to 8 autonomous firefighter agents · 3-floor building · 20×20 grid · 1,200 cells |
-| **Algorithms** | A\* · BFS · Dijkstra · D\* Lite — all implemented from first principles |
-| **Performance** | D\* Lite: 1,286/2,000 · BFS: 921/2,000 — D\* Lite outperformed BFS by 39.6% |
-| **Environment** | Probabilistic fire spread with real-time dynamic replanning for each agent |
-| **Security** | Academic project — SASTRA University, 2025 |
-| **Repository** | [github.com/AlsoBaker/AI-Firefighter-Rescue-Simulation](https://github.com/AlsoBaker/AI-Firefighter-Rescue-Simulation) |
 
-</details>
+### 🧩 Hybrid Due Diligence Engine &nbsp;`in progress`
 
----
+Answers financial and legal diligence questions that need both tables and documents. A ReAct router agent decides whether a question goes to SQL over BigQuery, to vector search over unstructured filings, or to both, and the FastAPI layer enforces role-based access to sources.
 
-<details>
-<summary><b>💪 AI Fitness Tracker</b> — LLM-Powered Personalization Engine</summary>
-
-<br/>
-
-A personalized health and wellness web application that leverages large language models to generate individualized diet and workout plans. Built during an AI Developer Internship at IBM SkillsBuild, the app collects structured user inputs and produces tailored health recommendations through prompt-engineered LLM calls, deployed publicly on Streamlit.
-
-| Attribute | Details |
+| | |
 |---|---|
-| **Stack** | Python · Streamlit · Groq API |
-| **Inputs** | Age · Sex · Budget · Dietary Preference · Workout Location |
-| **Output** | AI-generated personalized diet plan + workout regimen |
-| **Deployment** | Publicly deployed on Streamlit Cloud |
-| **Impact** | Demonstrated end-to-end LLM product flow from input collection to AI plan display |
-| **Repository** | [github.com/AlsoBaker/AI_fitness_tracker](https://github.com/AlsoBaker/AI_fitness_tracker) |
+| **Stack** | Google Cloud · BigQuery · vector search · FastAPI |
 
-</details>
+### Smaller builds
+
+- **[AI Fitness Planner](https://github.com/AlsoBaker/AI_fitness_tracker)** · Streamlit app that turns age, budget, diet and workout location into a personalized plan via the Groq API. Built for my IBM SkillsBuild AI Developer certification.
+- **[Handwritten Digit Classifier](https://github.com/AlsoBaker/handwritten-digit-classifier-cnn)** · CNN with batch normalization and dropout, 99.64% validation accuracy on MNIST.
 
 ---
 
-<details>
-<summary><b>🔢 Handwritten Digit Classifier</b> — High-Accuracy CNN on MNIST</summary>
+## Recognition
 
-<br/>
+- **Amazon ML Summer School 2026** · ranked in the top 12% at the assessment stage
+- **NIT Pragyan 2026** · shortlisted for the National Hackathon
+- **IBM SkillsBuild AI Developer certification** · AICTE and Edunet Foundation program (Dec 2025 – Jan 2026)
 
-A convolutional neural network trained to classify handwritten digits from the MNIST dataset, achieving near state-of-the-art accuracy through deliberate architecture design, batch normalization, and dropout regularization.
+---
 
-| Attribute | Details |
+## Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,tensorflow,opencv,flask,react,laravel,tailwind,docker,aws,gcp,mysql,git&theme=dark&perline=15" alt="Tech stack icons" />
+</p>
+
+| | |
 |---|---|
-| **Stack** | TensorFlow · Keras |
-| **Dataset** | MNIST — 70,000 labeled handwritten digit images (28×28 grayscale) |
-| **Performance** | 99.64% validation accuracy |
-| **Architecture** | Multi-layer CNN with batch normalization and dropout regularization |
-| **Repository** | [github.com/AlsoBaker/handwritten-digit-classifier-cnn](https://github.com/AlsoBaker/handwritten-digit-classifier-cnn) |
-
-</details>
-
----
-
-## ◈ Experience
-
-**AI Developer Intern** · IBM SkillsBuild — AICTE & Edunet Foundation
-`December 2025 – January 2026`
-
-Selected for the AICTE & IBM SkillsBuild AI/ML Virtual Internship program, where I designed and shipped a full-stack LLM-powered personalized fitness web application from concept to public deployment.
-
-- Engineered end-to-end product flow: structured user input collection → Groq LLM prompt construction → AI-generated plan rendering in a responsive Streamlit UI
-- Applied prompt engineering techniques to generate accurate, personalized diet and workout recommendations calibrated to user parameters including age, sex, budget, dietary preference, and workout location
-- Designed and deployed the application publicly via Streamlit Cloud with production-ready UX
-
-![Python](https://img.shields.io/badge/Python-1E1B4B?style=flat-square&logo=python&logoColor=8B5CF6)
-![Streamlit](https://img.shields.io/badge/Streamlit-1E1B4B?style=flat-square&logo=streamlit&logoColor=8B5CF6)
-![Groq](https://img.shields.io/badge/Groq_API-1E1B4B?style=flat-square&logoColor=8B5CF6)
-![LLMs](https://img.shields.io/badge/LLM_Engineering-1E1B4B?style=flat-square&logo=openai&logoColor=8B5CF6)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E1B4B?style=flat-square&logoColor=8B5CF6)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1E1B4B?style=flat-square&logoColor=8B5CF6)
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|:---|
-| **Medical AI Deployment** | EfficientNetB4 achieving 93.59% accuracy & 0.9834 ROC-AUC — deployed to Hugging Face Spaces |
-| **Pathfinding Benchmarking** | D\* Lite outperformed BFS by 39.6% (1,286 vs 921) in multi-agent controlled simulation |
-| **Digit Classification** | 99.64% validation accuracy on MNIST with custom CNN architecture |
-| **IBM SkillsBuild Selection** | Selected intern for AICTE & IBM SkillsBuild AI/ML Virtual Internship program |
-| **Production Full-Stack AI** | Docker → Hugging Face Spaces → Vercel — complete cloud deployment with drag-and-drop UI |
-| **Zero-Touch Automation** | Cross-platform content publishing reduced to zero manual effort via n8n + AWS EC2 pipeline |
-
-</div>
-
----
-
-## ◈ Certifications
-
-**IBM SkillsBuild · AICTE · Edunet Foundation**
-
-[![IBM Internship](https://img.shields.io/badge/AI_%26_Machine_Learning_Virtual_Internship-1E1B4B?style=for-the-badge&logo=ibm&logoColor=8B5CF6)](https://github.com/AlsoBaker)
-
-`AI & Machine Learning Virtual Internship · AICTE & IBM SkillsBuild, Edunet Foundation · December 2025 – January 2026`
-
----
-
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlsoBaker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsoBaker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AlsoBaker&theme=tokyonight&hide_border=true&stroke=8B5CF6&ring=7C3AED&fire=6D28D9&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6D28D9&background=0D1117" />
-
-</div>
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AlsoBaker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlsoBaker&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ◈ Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlsoBaker/AlsoBaker/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlsoBaker/AlsoBaker/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AlsoBaker/AlsoBaker/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## ◈ Current Focus
-
-```yaml
-current_state:
-  learning:
-    - LangChain & LLM Orchestration Frameworks
-    - RAG Pipelines & Vector Database Integration
-    - Hugging Face Transformers & Fine-Tuning
-    - FastAPI for Production AI Backends
-
-  building:
-    - Advanced medical imaging systems with explainability layers
-    - LLM-powered multi-agent coordination frameworks
-    - Production-grade RAG pipelines for domain-specific Q&A
-
-  exploring:
-    - Reinforcement Learning for robotics control
-    - Fine-tuning open-source LLMs (LLaMA, Mistral)
-    - Agentic AI workflows with tool-use and persistent memory
-
-  open_to:
-    - AI/ML Research Internships
-    - Full-Stack AI Engineering Roles
-    - Open Source Collaboration
-    - Hackathons & AI Competitions
-```
-
----
-
-## ◈ Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/vijayesh684%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayesh684@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/vijayesh--thiyagarajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayesh-thiyagarajan-8bb758356)
-[![GitHub](https://img.shields.io/badge/AlsoBaker-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlsoBaker)
-
-</div>
+| **Languages** | Python · C++ · C · JavaScript · PHP · SQL |
+| **ML and AI** | TensorFlow · Keras · OpenCV · scikit-learn · NumPy · Pandas · Grad-CAM · Groq API |
+| **Web** | Laravel · Blade · Alpine.js · Tailwind CSS · React · Flask · Streamlit |
+| **Infra and automation** | Docker · AWS EC2 · Hugging Face Spaces · Vercel · n8n · Git |
+| **Currently learning** | Google Cloud (BigQuery) · FastAPI · LangChain · vector databases |
 
 ---
 
 <div align="center">
 
-*"Intelligence is not the ability to store information, but to know where to find it."*
-
-<br/>
-
-<img src="https://img.shields.io/badge/─────────────────────────────────────────────────────-0D1117?style=for-the-badge&labelColor=0D1117&color=6D28D9" width="100%" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Built_with_passion_·_Powered_by_curiosity-1E1B4B?style=for-the-badge&color=1E1B4B&logoColor=8B5CF6" />
+**Open to Summer 2027 internships.** The fastest way to reach me is [email](mailto:vijayesh684@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vijayesh-thiyagarajan).
 
 </div>
